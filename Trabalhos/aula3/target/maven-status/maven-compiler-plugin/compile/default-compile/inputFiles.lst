@@ -1,0 +1,16 @@
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/util/Debug.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/SearchUsersClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/RestClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/GetUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/server/util/GenericExceptionMapper.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/CreateUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/api/service/RestUsers.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/DeleteUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/api/util/Discovery.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/UpdateUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/api/User.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/server/resources/UsersResource.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/server/UsersServer.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/RestUsersClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/server/util/CustomLoggingFilter.java
+/home/linuxman/Documents/SD/Trabalhos/aula3/src/sd2122/aula3/clients/URLConfigurator.java

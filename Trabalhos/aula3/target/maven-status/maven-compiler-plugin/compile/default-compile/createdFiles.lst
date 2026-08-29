@@ -1,0 +1,17 @@
+sd2122/aula3/api/util/Discovery.class
+sd2122/aula3/clients/SearchUsersClient.class
+sd2122/aula3/clients/GetUserClient.class
+sd2122/aula3/server/util/GenericExceptionMapper.class
+sd2122/aula3/clients/UpdateUserClient.class
+sd2122/aula3/server/resources/UsersResource.class
+sd2122/aula3/clients/RestClient.class
+sd2122/aula3/clients/RestUsersClient$1.class
+sd2122/aula3/clients/CreateUserClient.class
+sd2122/aula3/server/util/CustomLoggingFilter.class
+sd2122/aula3/clients/DeleteUserClient.class
+sd2122/aula3/clients/URLConfigurator.class
+sd2122/aula3/api/User.class
+sd2122/aula3/clients/RestUsersClient.class
+util/Debug.class
+sd2122/aula3/api/service/RestUsers.class
+sd2122/aula3/server/UsersServer.class
