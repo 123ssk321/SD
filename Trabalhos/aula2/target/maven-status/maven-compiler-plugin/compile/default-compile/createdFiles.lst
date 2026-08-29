@@ -1,0 +1,12 @@
+sd2122/aula2/clients/CreateUserClient.class
+sd2122/aula2/server/UsersServer.class
+sd2122/aula2/clients/GetUserClient.class
+sd2122/aula2/clients/DeleteUserClient.class
+sd2122/aula2/clients/UpdateUserClient.class
+sd2122/aula2/clients/SearchUserClient$1.class
+sd2122/aula2/api/User.class
+sd2122/aula2/api/util/Discovery.class
+sd2122/aula2/server/resources/UsersResource.class
+sd2122/aula2/clients/SearchUserClient.class
+sd2122/aula2/api/service/RestUsers.class
+sd2122/aula2/clients/URLConfigurator.class

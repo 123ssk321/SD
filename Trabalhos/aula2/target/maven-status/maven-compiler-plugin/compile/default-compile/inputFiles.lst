@@ -1,0 +1,11 @@
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/UpdateUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/CreateUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/api/util/Discovery.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/GetUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/URLConfigurator.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/SearchUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/server/UsersServer.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/server/resources/UsersResource.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/api/User.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/api/service/RestUsers.java
+/home/linuxman/Documents/SD/Trabalhos/aula2/src/sd2122/aula2/clients/DeleteUserClient.java
