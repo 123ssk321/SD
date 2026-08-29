@@ -1,0 +1,11 @@
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/servers/rest/RestUsersServer.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/clients/soap/CreateUserClient.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/servers/soap/SoapUsersServer.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/api/service/soap/UsersException.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/servers/soap/SoapUsersWebService.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/api/User.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/tls/InsecureHostnameVerifier.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/servers/rest/UsersResource.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/api/service/rest/RestUsers.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/api/service/soap/SoapUsers.java
+/home/linuxman/Documents/SD/Trabalhos/aula9/src/sd2122/aula9/clients/rest/CreateUserClient.java

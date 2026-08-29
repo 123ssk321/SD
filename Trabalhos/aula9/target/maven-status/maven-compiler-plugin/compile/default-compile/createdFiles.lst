@@ -1,0 +1,11 @@
+sd2122/aula9/clients/rest/CreateUserClient.class
+sd2122/aula9/servers/soap/SoapUsersWebService.class
+sd2122/aula9/api/service/soap/UsersException.class
+sd2122/aula9/api/service/soap/SoapUsers.class
+sd2122/aula9/servers/rest/RestUsersServer.class
+sd2122/aula9/api/User.class
+sd2122/aula9/servers/rest/UsersResource.class
+sd2122/aula9/tls/InsecureHostnameVerifier.class
+sd2122/aula9/servers/soap/SoapUsersServer.class
+sd2122/aula9/clients/soap/CreateUserClient.class
+sd2122/aula9/api/service/rest/RestUsers.class
